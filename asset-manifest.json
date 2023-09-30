@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/https;//AMirreh17.github.io/final-year-project/static/css/main.073c9b0a.css",
-    "main.js": "/https;//AMirreh17.github.io/final-year-project/static/js/main.c579d5df.js",
-    "static/js/787.ccb75b91.chunk.js": "/https;//AMirreh17.github.io/final-year-project/static/js/787.ccb75b91.chunk.js",
-    "static/media/logo.svg": "/https;//AMirreh17.github.io/final-year-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/https;//AMirreh17.github.io/final-year-project/index.html",
-    "main.073c9b0a.css.map": "/https;//AMirreh17.github.io/final-year-project/static/css/main.073c9b0a.css.map",
-    "main.c579d5df.js.map": "/https;//AMirreh17.github.io/final-year-project/static/js/main.c579d5df.js.map",
-    "787.ccb75b91.chunk.js.map": "/https;//AMirreh17.github.io/final-year-project/static/js/787.ccb75b91.chunk.js.map"
+    "main.css": "/final-year-project/static/css/main.073c9b0a.css",
+    "main.js": "/final-year-project/static/js/main.42c41ea1.js",
+    "static/js/787.ccb75b91.chunk.js": "/final-year-project/static/js/787.ccb75b91.chunk.js",
+    "static/media/logo.svg": "/final-year-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/final-year-project/index.html",
+    "main.073c9b0a.css.map": "/final-year-project/static/css/main.073c9b0a.css.map",
+    "main.42c41ea1.js.map": "/final-year-project/static/js/main.42c41ea1.js.map",
+    "787.ccb75b91.chunk.js.map": "/final-year-project/static/js/787.ccb75b91.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.c579d5df.js"
+    "static/js/main.42c41ea1.js"
   ]
 }
