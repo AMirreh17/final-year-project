@@ -21,7 +21,7 @@ function App() {
         <br></br>
         <h2>The Dangers and Usability of Artificial Intelligence within Social Media Content</h2>
         <br></br>
-        <footer>© The Undercover Project</footer>
+        <footer>© The Undercover Project - 2024</footer>
       </header>
     </div>
   );
