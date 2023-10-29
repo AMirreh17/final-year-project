@@ -17,11 +17,9 @@ function App() {
         >
           Learn React
         </a>
-        <h1>test project</h1>
-        <h2>why</h2>
-        <h3>finally hahahahahaha</h3>
-        <h4>yooooooo</h4>
-        <h5>pls does this work</h5>
+        <h1> This is a test build for "The Undercover Project"</h1>
+        <br></br>
+        <h2>The Dangers and Usability of Artificial Intelligence within Social Media Content</h2>
       </header>
     </div>
   );
