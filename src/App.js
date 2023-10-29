@@ -20,7 +20,8 @@ function App() {
         <h1> This is a test build for "The Undercover Project"</h1>
         <br></br>
         <h2>The Dangers and Usability of Artificial Intelligence within Social Media Content</h2>
-        <h5>© The Undercover Project</h5>
+        <br></br>
+        <footer>© The Undercover Project</footer>
       </header>
     </div>
   );
